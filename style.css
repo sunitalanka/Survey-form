@@ -1,0 +1,90 @@
+#title{
+  color: black;
+  font-family: courier;
+  text-align: center;
+}
+#description{
+  color: black;
+  text-align: center;
+  font-family : cursive;
+}
+body{
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQved0gHEcsuJRkcxkAYeFHlIyns1Q9-0u9wpY_MPTV4yWLhWSO&usqp=CAU);
+  
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 50vm;
+}
+#body{
+  background-color:darkslateblue;
+  margin: auto;
+  padding: 20px;
+  width:680px;
+  color: white;
+}
+form {
+  background: var(--color-darkblue-alpha);
+  padding: 10px 10px;
+  border-radius: 0.25rem;
+  padding: 2.5rem;
+}
+#survey-form{
+  border-radius: 0.25rem;
+  padding: 2.5rem;
+}
+
+#form-group{
+  text-align: left;
+  padding: 15px;
+  margin: 0 auto 1.25rem auto;
+  font-size: 25px;
+  font-family: inherit;
+}
+input, select, textarea, button{
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  text-align:left;
+}
+.form-control{
+  width:490px;
+  height: 2.375rem;
+  padding: 0.375rem 0.75rem;
+}
+#submit{
+  border: none;
+  text-align: center;
+  background-color: green;
+}
+#comments{
+  width: 490px;
+  height: 85px;
+  border-radius:10px;
+  
+}
+#name-lable, #email-lable, #number-lable{
+  width:490px;
+  padding:15px;
+  border-radius:10px;
+}
+#submit{
+  width:520px;
+  height:50px;
+  padding:5px;
+  border-radius:10px;
+  
+}
+#dropdown {
+  width:530px;
+  height:65px;
+  padding:15px;
+  border-radius:10px;
+  text-align: left;
+  padding: 15px;
+  margin: 0 auto 1.25rem auto;
+  font-size: 25px;
+  font-family: inherit;
+}
+
